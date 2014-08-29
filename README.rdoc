@@ -11,3 +11,5 @@ Dependencias:
 * devise 3.2.4
 
 Base de datos : sqlite3
+
+:/captura.png
