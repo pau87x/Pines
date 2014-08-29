@@ -1,28 +1,15 @@
-== README
+==  Pines
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Es un clon de pinterest
 
-Things you may want to cover:
+Rails 4.1.1
 
-* Ruby version
+Dependencias: 
 
-* System dependencies
+carrierwave
+bootstrap-sass 3.1.1.1
+devise 3.2.4'
 
-* Configuration
+Base de datos : sqlite3
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* Faltan pruebas
