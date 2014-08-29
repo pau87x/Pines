@@ -1,0 +1,25 @@
+<div class="item masonry-brick">
+  <div class="picture">
+    <%= link_to image_tag(pin.image, width: 270), pin, title: pin.title %>
+    <div class="item-content">
+      <div class="description">
+        <%= pin.description %>
+      </div>
+      <div class="author">MapacheDev</div>
+      <div class="meta">
+        <span>
+          <i class="glyphicon glyphicon-calendar"></i>
+          <%= I18n.l pin.created_at, format: :short %>
+        </span>
+        <span>
+          <i class="glyphicon glyphicon-user"></i>
+          <a href="#"><%= pin.user.email %></a>
+        </span>
+        <span>
+          <i class="glyphicon glyphicon-heart-empty"></i>
+          10
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
