@@ -12,4 +12,5 @@ Dependencias:
 
 Base de datos : sqlite3
 
-:/captura.png
+![ScreenShot](https://raw.github.com/pau87x/Pines/master/screenshot.png)
+
