@@ -1,4 +1,4 @@
-==  Pines
+#  Pines
 
 Es un clon de pinterest
 
